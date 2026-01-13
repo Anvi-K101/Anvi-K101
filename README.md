@@ -2,7 +2,7 @@
 
 # Anvi Karanjkar
   
-<img src="https://raw.githubusercontent.com/Anvi-K101/Anvi-K101/main/banner.png" width="100%" alt="Anvi Karanjkar Banner">
+<img src="https://raw.githubusercontent.com/Anvi-K101/Anvi-K101/main/Gemini_Generated_Image_gwqn2fgwqn2fgwqn.png" width="100%" alt="Anvi Karanjkar Banner">
 
   <i>✨ creating, exploring, finding problems and building ✨</i>
 
